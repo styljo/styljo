@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ioannis_Stylianoudakis) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ioannis-stylianoudakis) 
 
 <!-- # 💻 Tech Stack:
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white) ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=flat&logo=HumbleBundle&logoColor=white) 
