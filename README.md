@@ -1,10 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m Ioannis. <br>I’m a Computer Science graduate and former System Engineer (NCO) transitioning into Data Management. <br>I am interested in software development and Financial Technology (FinTech).<br><br>🔭 Currently working on my Master’s dissertation, focusing on simulations of herd behavior related to social media<br>🌱 Learning through collaborative projects on data pipelines and LMS-related tools<br>⚡ Fun fact about me, I am an ultramarathoner 🏃‍♂️.
 
----
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ioannis Stylianoudakis) 
----
+
 <!-- # 💻 Tech Stack:
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white) ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=flat&logo=HumbleBundle&logoColor=white) 
 # 📊 GitHub Stats:
